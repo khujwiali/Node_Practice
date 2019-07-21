@@ -11,10 +11,13 @@
     "url": "git+https://github.com/khujwiali/Node_Practice.git"
   },
   "author": "khujwi ali",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/khujwiali/Node_Practice/issues"
   },
   "homepage": "https://github.com/khujwiali/Node_Practice#readme",
-  "keywords": ["Node","NPM"]
+  "keywords": ["Node","NPM","freecodecamp"],
+  "dependencies": {
+    "moment": "^2.10.2"  
+  }
 }
