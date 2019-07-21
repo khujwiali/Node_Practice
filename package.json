@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/khujwiali/Node_Practice/issues"
   },
-  "homepage": "https://github.com/khujwiali/Node_Practice#readme"
+  "homepage": "https://github.com/khujwiali/Node_Practice#readme",
+  "keywords": ["Node","NPM"]
 }
